@@ -1,18 +1,9 @@
-# dmicallculator
+# # BMI-Flutter
 
 A new Flutter application.
 
-## Getting Started
+https://user-images.githubusercontent.com/40697299/126872165-c16bf88c-f722-41b7-91b0-c2e6c1328828.mov
 
-This project is a starting point for a Flutter application.
+![Screenshot_1627138037](https://user-images.githubusercontent.com/40697299/126872206-63d9e966-bf77-4506-aeee-a33ee75f7a99.png)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# BMI-Flutter
-# BMI-Flutter
+![Screenshot_1627138044](https://user-images.githubusercontent.com/40697299/126872209-e4f71b2c-f90b-4108-9d15-2bac6f9617a1.png)
